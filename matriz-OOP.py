@@ -594,4 +594,3 @@ def segunda_matriz():
         else:
             print("favor inserir uma opção válida")
 
-init()
